@@ -1,15 +1,19 @@
-# Hi, I’m @razasalaar
+Hi, I'm @razasalaar
 
-- 👀 I’m interested in front-end development, UI/UX design, and problem-solving.
-- 🌱 I’m currently learning advanced JavaScript frameworks and enhancing my UI/UX design skills.
-- 💞️ I’m looking to collaborate on innovative web development projects and user-friendly application designs.
-- 📫 How to reach me: 
-  - Email: razafazal19@gmail.com
-  - LinkedIn: [Raza Fazal](https://www.linkedin.com/in/raza-fazal-834643278)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm passionate about gaming and photography, and I love to explore new design trends.
+👀 I'm interested in modern web development, React.js, Next.js, and building high-performance applications.
+🌱 I'm currently learning advanced JavaScript (ES6+), enhancing my skills with Tailwind CSS, and exploring Supabase for backend integration.
+💞️ I'm looking to collaborate on innovative React/Next.js projects, responsive web applications, and impactful digital experiences.
+📫 How to reach me:
 
-<!---
-razasalaar/razasalaar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Email: razafazal19@gmail.com
+LinkedIn: Raza Fazal
+
+
+😄 Pronouns: He/Him
+⚡ Fun fact: I'm passionate about crafting clean, responsive UIs and love exploring new technologies to build seamless user experiences.
+
+🛠️ Tech Stack
+Frontend: React.js, Next.js, JavaScript (ES6+), Tailwind CSS
+Backend: Next.js API Routes, Supabase (Auth, Database)
+API Handling: RESTful APIs with Postman for testing and debugging
+Tools: Git & GitHub, Figma (UI/UX), VS Code
